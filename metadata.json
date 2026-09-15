@@ -1,0 +1,6 @@
+{
+  "name": "Ketik Cepat Dungeon Crawler",
+  "description": "Game edukasi ketik cepat bertema cyber dungeon crawler di laboratorium komputer tua untuk membasmi Bug dan Malware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
